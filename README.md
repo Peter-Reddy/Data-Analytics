@@ -1,3 +1,4 @@
+<img align="MasterHead" alt="Coding" width="800" src="https://www.springboard.com/blog/wp-content/uploads/2015/10/DataScienceContentBanner-700x252.png">
 <h1 align="center">Hi 👋, I'm Peter Reddy</h1>
 <h3 align="center">A passionate Data analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.arkatechture.com/hs-fs/hubfs/Data%20Flow%20Generic-gif.gif?width=539&name=Data%20Flow%20Generic-gif.gif">
