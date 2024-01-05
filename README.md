@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Peter Reddy</h1>
 <h3 align="center">A passionate Data analyst from India</h3>
-(img align="right" alt="Coding" width="400" src=https://www.arkatechture.com/hs-fs/hubfs/Data%20Flow%20Generic-gif.gif?width=539&name=Data%20Flow%20Generic-gif.gif
+<img align="right" alt="Coding" width="400" src="https://www.arkatechture.com/hs-fs/hubfs/Data%20Flow%20Generic-gif.gif?width=539&name=Data%20Flow%20Generic-gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peter-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="peter-reddy" /> </p>
 
